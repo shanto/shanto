@@ -1,6 +1,6 @@
 ## 👋 Hi there!
 
-I'm Shaan, a versatile tech enthusiast with a background in DevOps engineering and full-stack software development. My toolkit is as diverse as my interests, spanning languages and frameworks from C, C++, Python, Django, Node, React, NextJS, Electron, Cordova - and that's just scratching the surface! What really sets my heart racing? Diving into the depths of GitHub, searching for hidden gems - those abandoned yet potentially game-changing projects just waiting to be revived. It's not just a hobby; it's my way of contributing to the open-source community and breathing new life into forgotten code. Curious about the full extent of my technical repertoire? Feel free to explore my site - you might just find the perfect skill set for your next big project!
+I'm Shaan, a versatile tech enthusiast with a background in DevOps engineering and full-stack software development. My toolkit is as diverse as my interests, spanning languages and frameworks from C, C++, Python, Django, Node, React, NextJS, Electron, Cordova - and that's just scratching the surface! What really sets my heart racing? Diving into the depths of GitHub, searching for hidden gems - those abandoned yet potentially game-changing projects just waiting to be revived. It's not just a hobby; it's my way of contributing to the open-source community and breathing new life into forgotten code.
 
 ## 🔧 Skills
 - **Languages:** C, C++, C#, Python, PHP, Javascript, TypeScript, Bash, PowerScript
